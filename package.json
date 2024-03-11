@@ -1329,6 +1329,9 @@
     "zwitch": "^1.0.5",
     "yeast": "^0.1.2"
   },
+  "resolutions": {
+    "graphql": "^14.1.0"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",
