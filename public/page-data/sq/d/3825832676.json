@@ -132,6 +132,17 @@
             },
             "html": "<p>• Developed a bot that let quiz club members run quizzes on Discord as our club transitioned online during COVID.\r\nA host would run questions throught the bot, which would manage scores, participants and cycle through different\r\nrounds. Other bots made include a spelling bee bot in javascript, a guess the song bot among others</p>"
           }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Resume2.0",
+              "tech": ["JavaScript", "React", "Node.js", "Gatsby"],
+              "github": "",
+              "external": ""
+            },
+            "html": "<p>• Developed and deployed my personal website using JavaScript, React, Node.js, Gatsby and Brittany Chiang's resume template.</p>"
+          }
         }
       ]
     }
