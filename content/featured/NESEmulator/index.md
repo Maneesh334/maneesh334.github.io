@@ -11,4 +11,4 @@ company: ''
 showInFeatured: true
 ---
 
-Leveraged Rust and SDL2 to build and run an emulator for the NES(Nintendo Emulator System). Currently supports first-gen static screen games like Donkey Kong and Pac-Man.
+Leveraged Rust and SDL2 to build and run an emulator for the NES(Nintendo Emulator System). Supports all games from Donkey Kong to Super Mario Bros!

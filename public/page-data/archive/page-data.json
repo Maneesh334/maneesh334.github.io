@@ -55,24 +55,24 @@
             "node": {
               "frontmatter": {
                 "date": "2023-10-27",
-                "title": "Predicting Flight Delays",
-                "tech": ["Python", "Selenium", "BeautifulSoup", "pandas", "R"],
-                "github": "",
-                "company": "Stony Brook University"
-              },
-              "html": "<p>• Exploratory analysis of causes of flight delays across the US including weather conditions, cascading delays and\r\ngeographic location.</p>\n<p>• Predictive models built to predict flight delay utilising LSTM and XGBoost.</p>\n<p>• 30 GB of flight delay and weather data scraped using Python, Selenium and BeautifulSoup.</p>"
-            }
-          },
-          {
-            "node": {
-              "frontmatter": {
-                "date": "2023-10-27",
                 "title": "Question Paper Generator with LLMs",
                 "tech": ["Python", "LLaMa"],
                 "github": "",
                 "company": ""
               },
               "html": "<p>• Developed a question generation tool that set question papers according to user inputted subject areas, question\r\ntypes and difficulty levels leveraging LLaMa models.\r\n• 7B Model fine tuned using QLoRa and PeFT. Dataset synthesized using GPT-4.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2023-10-27",
+                "title": "Predicting Flight Delays",
+                "tech": ["Python", "Selenium", "BeautifulSoup", "pandas", "R"],
+                "github": "",
+                "company": "Stony Brook University"
+              },
+              "html": "<p>• Exploratory analysis of causes of flight delays across the US including weather conditions, cascading delays and\r\ngeographic location.</p>\n<p>• Predictive models built to predict flight delay utilising LSTM and XGBoost.</p>\n<p>• 30 GB of flight delay and weather data scraped using Python, Selenium and BeautifulSoup.</p>"
             }
           },
           {
@@ -132,7 +132,7 @@
                 "github": "",
                 "company": ""
               },
-              "html": "<p>• Leveraged Rust and SDL2 to build and run an emulator for the NES(Nintendo Emulator System).</p>\n<p>• Currently supports first-gen static screen games like Donkey Kong and Pac-Man.</p>"
+              "html": "<p>• Leveraged Rust and SDL2 to build and run an emulator for the NES(Nintendo Emulator System).</p>\n<p>• Supports all games from Donkey Kong to Pac-Man and Super Mario Bros!</p>"
             }
           },
           {
