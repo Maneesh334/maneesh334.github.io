@@ -31,7 +31,7 @@ const StyledHeroSection = styled.section`
 
   h3 {
     margin-top: 5px;
-    color: var(--slate);
+    color: var(--dark-gold);
     line-height: 0.9;
   }
 
@@ -65,7 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a graduate student in Computer Science at Stony Brook University with 1.5 years of professional work experience in building scalable, reliable and functional applications.
+        I’m a graduate student in Computer Science at Stony Brook University with 1.5 years of
+        professional work experience in building scalable, reliable and functional applications.
       </p>
     </>
   );

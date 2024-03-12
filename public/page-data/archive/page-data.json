@@ -80,11 +80,23 @@
               "frontmatter": {
                 "date": "2023-03-27",
                 "title": "Text-to-Speech Assistant for ChatGPT",
-                "tech": ["Python", "JavaScript", "GPT"],
+                "tech": ["Python", "JavaScript", "GPT", "Whisper"],
                 "github": "",
                 "company": ""
               },
               "html": "<p>• Developed a full-stack web application that includes a virtual assistant that can respond to audio queries.</p>\n<p>• Audio transcribed to text using Whisper, OpenAI APIs for answering queries and ElevenLabs for converting text to\r\naudio. Web application built using Python, HTML and JavaScript</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2023-03-27",
+                "title": "Youtube RAG",
+                "tech": ["Python", "GPT", "Whisper", "Pinecone", "LangChain", "OpenAI"],
+                "github": "",
+                "company": ""
+              },
+              "html": "<p>• Developed a Python application to let users query OpenAI APIs for any information they need to extract from a YouTube video.</p>\n<p>• Video converted to text with Whisper, split into chunks, stored and extracted from Pinecone's cloud-based vector databases. Output parsed with LangChain.</p>"
             }
           },
           {
@@ -169,6 +181,18 @@
                 "company": ""
               },
               "html": "<p>• Developed a bot that let quiz club members run quizzes on Discord as our club transitioned online during COVID.\r\nA host would run questions throught the bot, which would manage scores, participants and cycle through different\r\nrounds. Other bots made include a spelling bee bot in javascript, a guess the song bot among others</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2016-03-27",
+                "title": "ARP Poisoning Detector",
+                "tech": ["Python", "Bash"],
+                "github": "",
+                "company": ""
+              },
+              "html": "<p>• Developed a Python script to detect attempts made to poison ARP caches for all network interfaces and warn users accordingly.</p>"
             }
           },
           {

@@ -125,7 +125,28 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Go', 'Ruby', 'Docker', 'Gemini', 'Kafka', 'Spark', 'Airflow', 'RabbitMQ', 'R', 'Kubernetes', 'Java', 'C', 'Rust', 'C++', 'TensorFlow', 'PyTorch', 'Keras', 'LangChain', 'SQL '];
+  const skills = [
+    'Python',
+    'Go',
+    'Ruby',
+    'Docker',
+    'Gemini',
+    'Kafka',
+    'Spark',
+    'Airflow',
+    'RabbitMQ',
+    'R',
+    'Kubernetes',
+    'Java',
+    'C',
+    'Rust',
+    'C++',
+    'TensorFlow',
+    'PyTorch',
+    'Keras',
+    'LangChain',
+    'SQL ',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,17 +156,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hola! My name is Maneesh and I enjoy coding and building scalable software solutions for a litany of problems.
-              I graduated with a Bachelor's in Computer Science from BITS in 2022 before working for a year and heading to 
-              the United States for my Master's in Computer Science at Stony Brook University. I'm currently looking for internship
-              opportunities in SDE/AI/ML roles for Summer 2024 to create value by tackling and resolving problems - feel free to reach
-              out to me through the contact links on the sidebar.
+              Heya! My name is Maneesh and I enjoy coding and building scalable software solutions
+              for a litany of problems. I graduated with a Bachelor's in Computer Science from BITS
+              in 2022 before working for a year and heading to the United States for my Master's in
+              Computer Science at Stony Brook University. I'm currently looking for internship
+              opportunities in SDE/AI/ML roles for Summer 2024 to create value by tackling and
+              resolving problems - feel free to reach out to me through the contact links on the
+              sidebar.
             </p>
 
             <p>
               My professional experiences so far have been as a software engineering intern at{' '}
-              <a href="https://convergenttec.com/">a software solutions company</a>,{' '} and at
-              <a href="https://flipkart.com/">India's biggest e-commerce company</a>,{' '} with 1 year of full-time experience at
+              <a href="https://convergenttec.com/">a software solutions company</a>, and at
+              <a href="https://flipkart.com/">India's biggest e-commerce company</a>, with 1 year of
+              full-time experience at
               <a href="https://www.rupifi.com/">a B2B payment solutions company</a>
             </p>
 

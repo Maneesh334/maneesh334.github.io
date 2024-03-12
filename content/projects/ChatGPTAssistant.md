@@ -7,6 +7,7 @@ tech:
   - Python
   - JavaScript
   - GPT
+  - Whisper
 company: ''
 showInProjects: true
 ---
