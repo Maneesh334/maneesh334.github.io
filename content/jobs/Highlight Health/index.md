@@ -3,7 +3,7 @@ date: '2019-05-14'
 title: 'Software Development Intern'
 company: 'Highlight Health'
 location: 'Newark, New Jersey'
-range: 'July 2022 - August 2023'
+range: 'May 2024 - Present'
 url: 'https://www.highlight.health/'
 ---
 
