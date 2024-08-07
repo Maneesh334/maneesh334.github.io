@@ -61,12 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Maneesh Reddy</h2>;
-  const three = <h3 className="big-heading">I code to drive value for people around me.</h3>;
+  const three = <h3 className="big-heading">I like to build and solve problems with code.</h3>;
   const four = (
     <>
       <p>
-        I’m a graduate student in Computer Science at Stony Brook University with 1.5 years of
-        professional work experience in building scalable, reliable and functional applications.
+        I’m a graduate student in Computer Science with over 2 years of experience in delivering production-quality code.
       </p>
     </>
   );
